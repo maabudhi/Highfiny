@@ -1,0 +1,48 @@
+{
+  "name": "Highfiny - Financial Calculators",
+  "short_name": "Highfiny",
+  "description": "Highfiny offers free SIP, lumpsum, FD, RD, SWP, EMI, home loan EMI, and car loan EMI calculators for accurate financial planning. Start calculating your investments and loans today!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6a11cb",
+  "theme_color": "#2575fc",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": [
+    "finance",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "https://www.highfiny.com/6a453d10-348d-403a-a3f9-fd193d3c00a7.jpg.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.highfiny.com/6a453d10-348d-403a-a3f9-fd193d3c00a7.jpg.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.highfiny.com/6a453d10-348d-403a-a3f9-fd193d3c00a7.jpg.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.highfiny.com/6a453d10-348d-403a-a3f9-fd193d3c00a7.jpg.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.highfiny.com/Favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
